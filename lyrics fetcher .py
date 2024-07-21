@@ -1,3 +1,4 @@
+#importing neccessary libraries 
 import tkinter as tk
 from tkinter import messagebox
 from lyrics_extractor import SongLyrics
